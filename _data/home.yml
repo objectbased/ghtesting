@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: SplunkPSTool
     url: https://github.com/objectbased/splunkpstool
-    desc: Powershell script that provides the ability to download various Splunk Universal Forwarder packages along with the ability to...
+    desc: Powershell script that provides the ability to download various Splunk Universal Forwarder packages...
 
   - title: Project 2
     url: overview-post
